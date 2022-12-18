@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "LipaKeja"
-include ':app'
+include(":app")
