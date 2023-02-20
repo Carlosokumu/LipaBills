@@ -68,6 +68,7 @@ dependencies {
     implementation(libs.androidx.compose.tooling)
     implementation(libs.androidx.lifecycle)
     implementation(libs.androidx.compose.activity)
+    implementation(libs.google.accompanist)
 
 
     testImplementation(libs.junit)
